@@ -1,0 +1,14 @@
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\UocChungLonNhat\bin\Debug\net8.0\UocChungLonNhat.exe
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\UocChungLonNhat\bin\Debug\net8.0\UocChungLonNhat.deps.json
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\UocChungLonNhat\bin\Debug\net8.0\UocChungLonNhat.runtimeconfig.json
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\UocChungLonNhat\bin\Debug\net8.0\UocChungLonNhat.dll
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\UocChungLonNhat\bin\Debug\net8.0\UocChungLonNhat.pdb
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\UocChungLonNhat\obj\Debug\net8.0\UocChungLonNhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\UocChungLonNhat\obj\Debug\net8.0\UocChungLonNhat.AssemblyInfoInputs.cache
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\UocChungLonNhat\obj\Debug\net8.0\UocChungLonNhat.AssemblyInfo.cs
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\UocChungLonNhat\obj\Debug\net8.0\UocChungLonNhat.csproj.CoreCompileInputs.cache
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\UocChungLonNhat\obj\Debug\net8.0\UocChungLonNhat.dll
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\UocChungLonNhat\obj\Debug\net8.0\refint\UocChungLonNhat.dll
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\UocChungLonNhat\obj\Debug\net8.0\UocChungLonNhat.pdb
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\UocChungLonNhat\obj\Debug\net8.0\UocChungLonNhat.genruntimeconfig.cache
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\UocChungLonNhat\obj\Debug\net8.0\ref\UocChungLonNhat.dll
